@@ -1,0 +1,23 @@
+{LK}cn                           (exit)0(px)3(py)3                       
+">",&{CMD}c{exit}r1=i@           (look23){No description yet! (2,3)\n}   
+(CMD) :"l"=iv :{look}=iv n       (look33){You are standing in a field.\n}
+v           >          >{LK}c@   (look43){No description yet! (4,3)\n}   
+> :{inv}=iv n                    (e33)1(e43)0(e23)1
+v         >             {Inv}c@  (n33)1(n43)1(n23)1
+> :"e"=iv :{east}=iv n           (w33)1(w43)1(w23)0
+v       >          >    {East}c@ (s33)1(s43)1(s23)1
+> :"w"=iv :{west}=iv n           
+v       >          >    {West}c@ 
+> :"s"=iv :{south}=iv n          
+v       >           >   {South}c@
+> :"n"=iv :{north}=iv n          
+v       >           >   {North}c@
+>:{I don't know the command '},,{'!\n},@
+(LK){look}{px}r{py}r''r,@               
+(Inv){Command not implemented yet!\n},@ 
+v      <                 v      <                 v       <                v       <                
+ (East)^          >     v (West)^          >     v (North)^         >     v (South)^         >     v
+>"e"{px}r{py}r''ri^    v >"w"{px}r{py}r''ri^    v >"n"{px}r{py}r''ri^    v >"s"{px}r{py}r''ri^    v 
+@c{LK}w{px}+1r{px}      <@c{LK}w{px}-1r{px}      <@c{LK}w{py}-1r{py}      <@c{LK}w{py}+1r{py}      <
+n{Cannot move there!\n}< n{Cannot move there!\n}< n{Cannot move there!\n}< n{Cannot move there!\n}< 
+,@

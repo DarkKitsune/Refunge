@@ -1,0 +1,11 @@
+{First98}c{Last}c@(TakeBottle){Bottles}r1-{Bottles}w@
+(First98)>{Verse}c{Bottles}rv
+        #^_@   (Bottles){99}>
+(Verse)n(GetBottles){Bottles}r,@
+{GetBottles}c{ bottles of beer on the wall, },n
+{GetBottles}c{ bottles of beer.\n},n
+{Take one down, pass it around, },{TakeBottle}cn
+{GetBottles}c{ bottles of beer on the wall.\n\n},@
+(Last){1 bottle of beer on the wall, 1 bottle of beer.\n},n
+{Take one down and pass it around, no more bottles of beer},n
+{ on the wall.\n\n},@
