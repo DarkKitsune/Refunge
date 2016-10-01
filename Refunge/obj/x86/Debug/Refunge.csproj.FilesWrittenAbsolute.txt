@@ -3,3 +3,8 @@
 /home/dark/MEGA/Dev/Refunge/Refunge/bin/Debug/Refunge.exe
 /home/dark/MEGA/Dev/Refunge/Refunge/obj/x86/Debug/Refunge.exe
 /home/dark/MEGA/Dev/Refunge/Refunge/obj/x86/Debug/Refunge.exe.mdb
+/home/dark/MEGA/Dev/Refunge/Refunge/Refunge/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dark/MEGA/Dev/Refunge/Refunge/Refunge/bin/Debug/Refunge.exe.mdb
+/home/dark/MEGA/Dev/Refunge/Refunge/Refunge/bin/Debug/Refunge.exe
+/home/dark/MEGA/Dev/Refunge/Refunge/Refunge/obj/x86/Debug/Refunge.exe
+/home/dark/MEGA/Dev/Refunge/Refunge/Refunge/obj/x86/Debug/Refunge.exe.mdb
