@@ -205,7 +205,7 @@ namespace Refunge
 							case (":"):
 								aS = Stack.Pop();
 								Stack.Push(aS);
-								Stack.Push("" + aS);
+								Stack.Push(aS);
 								break;
 
 							case (@"\"):
